@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d4a69735-fef1-4a0d-9b28-bba8f85c9c34" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
+=======
+    <list default="true" id="67d0ff1c-9304-458a-a746-dcb3a2e9e4ac" name="Default Changelist" comment="" />
+>>>>>>> list
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -47,6 +52,8 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
+=======
+>>>>>>> list
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
@@ -54,6 +61,7 @@
     <configuration />
   </component>
   <component name="TaskManager">
+<<<<<<< HEAD
     <task active="true" id="Default" summary="Default task">
       <changelist id="d4a69735-fef1-4a0d-9b28-bba8f85c9c34" name="Default Changelist" comment="" />
       <created>1608565348812</created>
@@ -67,4 +75,8 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+=======
+    <servers />
+  </component>
+>>>>>>> list
 </project>
